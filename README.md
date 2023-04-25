@@ -1,3 +1,6 @@
+mandesk image from [studiostock](https://www.freepik.com/author/studiogstock) on [Freepik](https://www.freepik.com/free-vector/elegant-businessman-office-scene_6150085.htm#query=man%20desk&position=18&from_view=search&track=robertav1_2_sidr)
+
+Icons from [Fontawesome](https://fontawesome.com/search?o=r&m=free)
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome,
